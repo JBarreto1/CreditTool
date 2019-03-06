@@ -1,0 +1,49 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-footer {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.credit-card {
+  min-height: 5vh;
+  flex-direction: column;
+  font-size: calc(5px + 1vmin);
+  align-items: center; 
+}
+
+.credit-title {
+  font-size: calc(10px + 1vmin);
+}
+
+.rounded {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.uncat {
+  color:grey;
+}
